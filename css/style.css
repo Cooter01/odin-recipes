@@ -1,0 +1,64 @@
+body{
+    background-color: pink;
+    margin: 0;
+}
+
+h1{
+    color: blue;
+    font-size: 100px;
+  
+    font-style: italic;
+}
+
+
+ul{
+        font-size: 100px;
+        list-style-position: inside;
+}
+
+/* Grilled Asparagus CSS */
+
+.asparagus{
+    width: 500px;
+    margin-left: 20px;
+
+    
+    
+}
+
+.test{
+    color: black    ;
+    float: right;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+ 
+}
+/* Italian Chicken Marinated CSS */
+.chicken{
+    width: 600px;
+    margin-left: 20px;
+}   
+
+
+.test2{
+    color: black    ;
+    float: right;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+ 
+}
+
+/*Marinated Grilled Pork Tenderlion CSS */
+.pork{
+    width: 500px;
+    margin-left: 20px;
+}
+
+
+.test3{
+    color: black    ;
+    float: right;
+    font-size: 50px;
+    font-family: "Times New Roman", Times, serif;
+ 
+}
